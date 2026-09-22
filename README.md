@@ -1,5 +1,7 @@
 # UrFavorite
 
+**5A ICY FISA - Binôme : Khalil Mzoughi & Franck Maruis**
+
 Mini-catalogue produits en Flutter (iOS & Android) avec gestion de favoris. Toutes les données (produits, catégories, images) viennent de l'API [DummyJSON](https://dummyjson.com) en direct, aucune donnée mockée.
 
 ## Données
