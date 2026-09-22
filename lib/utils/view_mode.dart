@@ -1,0 +1,1 @@
+enum ProductViewMode { compact, detailed }
